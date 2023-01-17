@@ -11,6 +11,8 @@
 
 - 🔗 Connect me and see my experience: [https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240](https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240) 
 
+- 💻 Web developer
+
 - 📃 Experience summary:
 
   1. Frontend leader of Web programming's assignment, technologies in used: mainly ReactTS and Redux.
