@@ -9,7 +9,7 @@
 
 - 📧 Official email: trivan7a16@gmail.com
 
-- 🔗 Connect me: [https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240](https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240) 
+- 🔗 Connect me and see my experience: [https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240](https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240) 
 
 - 📃 Experience summary:
 
@@ -17,7 +17,7 @@
   </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trivankute&repo=CuaHangThoiDai"/>
   </br>
- 
+<!--  
   2. Four projects from the beginning of Q2-2022 to the end of the summer. 
   Practice on MVC-JS, vanilla JS (socket), Socket in React, Drag and drop in todoApp 
   <br>
@@ -28,8 +28,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=trivankute&repo=chatApp"/>
   <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=trivankute&repo=todoApp"/>
-  <br>
-
+  <br> -->
+- 🏆 Achivement: Highest Web-Programming-Subject's GPA in the last semester in 2022.
+- 👨🏻‍💻 Currently interested in programming with asp.net core.
 <br>
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=trivankute&count_private=true&show_icons=true&theme=dark&locale=en&ring_color=F8C8DC"/>
