@@ -32,7 +32,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=trivankute&repo=todoApp"/>
   <br> -->
 - 🏆 Achivement: Highest Web-Programming-Subject's GPA in the last semester in 2022.
-- 👨🏻‍💻 Currently interested in programming with asp.net core.
+- 👨🏻‍💻 Currently interested in programming with Asp.Net core.
 <br>
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=trivankute&count_private=true&show_icons=true&theme=dark&locale=en&ring_color=F8C8DC"/>
