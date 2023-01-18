@@ -1,7 +1,7 @@
 
 <div align="center">
 👋 My name is Van </br></br>
-<img style="width:500px;" src="https://res.cloudinary.com/dotr7u5kq/image/upload/v1673978983/githubportfolio/cat-gif-forgithub_p1zxlm.gif"/>
+<img style="max-width:500px;" src="https://res.cloudinary.com/dotr7u5kq/image/upload/v1673978983/githubportfolio/cat-gif-forgithub_p1zxlm.gif"/>
 <br>
 </div>
 
