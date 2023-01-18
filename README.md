@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/pin/?username=trivankute&repo=CuaHangThoiDai&theme=radical&title_color=F8C8DC"/>
   </p>
   2. Four projects from the beginning of Q2-2022 to the end of the summer. 
-  Practice on MVC-JS, vanilla JS (socket), Socket in React, Drag and drop in todoApp, MongoDb. 
+  Practice on MVC-JS, vanilla JS with Socket, Socket in React with chatApp, Drag and drop in todoApp, MongoDb. 
   <p>
   <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/pin/?username=trivankute&repo=Yelp-Camp&theme=radical&title_color=F8C8DC"/>
   </p>
@@ -39,10 +39,15 @@
 - 👨🏻‍💻 Currently interested in learning how to programme website with Asp.Net core.
 <br>
 <div>
-   <img src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api?username=trivankute&count_private=true&show_icons=true&theme=dark&locale=en&ring_color=F8C8DC&title_color=F8C8DC"/>
-   <img src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/top-langs?username=trivankute&show_icons=true&locale=en&layout=compact&theme=radical&hide=c&title_color=F8C8DC"/>
+  <p>
+   <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api?username=trivankute&count_private=true&show_icons=true&theme=dark&locale=en&ring_color=F8C8DC&title_color=F8C8DC"/>
+  </p>
+  <p>
+   <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/top-langs?username=trivankute&show_icons=true&locale=en&layout=compact&theme=radical&hide=c&title_color=F8C8DC"/>
+  </p>
 </div>
 <br>
 <div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trivankute&theme=radical&title_color=F8C8DC"/>
+  
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trivankute&theme=radical&title_color=F8C8DC"/>
 </div>
