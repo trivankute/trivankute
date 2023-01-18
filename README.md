@@ -50,20 +50,19 @@
 <br>
 <div>
   <p>
-  <a href="#">
+  <a>
    <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api?username=trivankute&count_private=true&show_icons=true&theme=dark&locale=en&ring_color=F8C8DC&title_color=F8C8DC"/>
   </a>
   </p>
   <p>
-    <a href="#">
+    <a>
    <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/top-langs?username=trivankute&show_icons=true&locale=en&layout=compact&theme=radical&hide=c&title_color=F8C8DC"/>
     </a>
   </p>
 </div>
-<br>
 <div>
   <p>
-    <a href="#">
+    <a>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trivankute&theme=radical&title_color=F8C8DC"/>
     </a>
   </p>
