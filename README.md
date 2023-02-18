@@ -46,7 +46,7 @@
   </a>
   </p>
 - 🏆 Achivement: Highest Web-Programming-Subject's GPA in the last semester in 2022.
-- 👨🏻‍💻 Currently interested in learning how to programme website with Asp.Net core.
+- 👨🏻‍💻 Currently interested in learning how to programme website with Asp.Net core. And Machine learning, also Mobile development.
 <br>
 <div>
   <p>
