@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/pin/?username=trivankute&repo=todoApp&theme=radical&title_color=F8C8DC"/>
   </a>
   </p>
-- 🏆 Achivement: Highest Web-Programming-Subject's GPA in the last semester in 2022.
+- 🏆 Achivement: In the last semester of 2022, I earned the highest GPA in my Web Programming course.
 - 👨🏻‍💻 Currently interested in learning how to programme website with Asp.Net core. And Machine learning, also Mobile development.
 <br>
 <div>
