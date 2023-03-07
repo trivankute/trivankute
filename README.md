@@ -11,7 +11,7 @@
 
 - 📧 Official email: trivan7a16@gmail.com
 
-- 🔗 Connect me and see my experience: [https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240](https://www.linkedin.com/in/trịnh-trí-văn-0a23ab240) 
+- 🔗 Connect me and see my experience: [https://www.linkedin.com/in/trivankute](https://www.linkedin.com/in/trivankute) 
 
 - 💻 Web developer
 
