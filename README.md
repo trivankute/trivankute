@@ -45,8 +45,14 @@
   <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/pin/?username=trivankute&repo=todoApp&theme=radical&title_color=F8C8DC"/>
   </a>
   </p>
+  3. Full-stack leader of Software Engineering project in class. Be responsible for designing frontend with Figma, full-stack coding from scratch.
+  <p>
+  <a href="https://github.com/trivankute/UrbanWasteCollection2.0">
+  <img align="center" src="https://github-readme-stats-gamma-ruddy-48.vercel.app/api/pin/?username=trivankute&repo=UrbanWasteCollection2.0&theme=radical&title_color=F8C8DC"/>
+  </a>
+  </p>
 - 🏆 Achivement: In the last semester of 2022, I earned the highest GPA in my Web Programming course.
-- 👨🏻‍💻 Currently interested in learning how to programme website with Asp.Net core. And Machine learning, also Mobile development.
+- 👨🏻‍💻 Currently interested in learning how to programme website with Asp.Net core. And Machine learning.
 <br>
 <div>
   <p>
